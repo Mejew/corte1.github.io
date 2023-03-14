@@ -31,9 +31,11 @@ li {
     margin: 10px;
     cursor: pointer;
 }
-.imagen-logo{
-margin-left: -8%;
+
+.imagen-logo {
+    margin-left: -8%;
 }
+
 /*Aqui Empiezo con el Home*/
 .home {
     margin: 0;
@@ -281,10 +283,11 @@ p {
     margin-top: 6%;
 }
 
-.information .get{
+.information .get {
     font-weight: 600;
 }
-.information p{
+
+.information p {
     width: 70%;
     font-size: min(3vw, 22px)
 }
@@ -306,6 +309,7 @@ p {
     font-weight: 900;
     font-size: larger;
 }
+
 .numero,
 .correo {
     display: flex;
@@ -332,9 +336,11 @@ p {
         font-size: 3vw;
 
     }
-    .nosotros .titulo-nosotros{
+
+    .nosotros .titulo-nosotros {
         font-size: 5vw;
-}
+    }
+
     .nosotros p {
         font-size: 2.5vw;
     }
@@ -397,9 +403,10 @@ p {
         margin: auto;
     }
 
-    .information{
+    .information {
         height: 550px;
     }
+
     .caja_formulario {
         display: flex;
         flex-direction: column;
